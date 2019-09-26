@@ -2,7 +2,7 @@ const path = require('path');
 
 module.exports = {
   siteTitle: `UX Engineer`,
-  siteTitleShort: `GatsbyU`,
+  siteTitleShort: `UX Engineer`,
   siteDescription: `UX Engineer. The UX Engineer.`,
   siteUrl: `https://uxengineer.netlify.com`,
   themeColor: `#000`,
