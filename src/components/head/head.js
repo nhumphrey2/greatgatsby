@@ -23,8 +23,7 @@ const Head = ({
     <meta content="IE=edge" httpEquiv="X-UA-Compatible" />
     <meta
       content="width=device-width,initial-scale=1.0,user-scalable=yes"
-      name="viewport"
-    />
+      name="viewport"/>
 
     <meta content={siteTitle} name="apple-mobile-web-app-title" />
     <meta content={pageTitleFull} property="og:title" />
